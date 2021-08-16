@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7ec045dc-9547-4ee7-9b18-1fd6a681ddf3" parent-code="" group-title="CanaisTop", BAND NEWS
+http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7ec045dc-9547-4ee7-9b18-1fd6a681ddf3" parent-code="" group-title="CanaisTop", BAND NEWS+
+http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/24e72938-8d27-4e3f-bec1-9289459deede" parent-code="" group-title="CanaisTop", BAND NEWS UHD
+http://api.magiaiptv.com/live/800195/918609/m3_wM1DcpyixXePdVU8F2ogE6KT_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3a77e8ed-0fba-4c74-b0f4-a858b33e360e" parent-code="" group-title="CanaisTop", CNN BRASIL HD+
+http://api.magiaiptv.com/live/800195/918609/m2_1KBrVeObLx7wqyN8g_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/3c7369dc-1c2a-4da3-ad49-fc7413558612" parent-code="" group-title="CanaisTop", CNN BRASIL UHD
+http://api.magiaiptv.com/live/800195/918609/m1_1KBrVeObLx7wqyN8g_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" parent-code="" group-title="CanaisTop", GLOBO NEWS HD
+http://api.magiaiptv.com/live/800195/918609/p3_TkpBaA2SR5zzC0o
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dd67d008-2597-4820-8417-0f69e1bdc018" parent-code="" group-title="CanaisTop", GLOBO NEWS HD+
+http://api.magiaiptv.com/live/800195/918609/p2_JLtVbmIgNqEC
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/dbb761bb-44c4-49a9-ba7f-959f992f7a43" parent-code="" group-title="CanaisTop", GLOBO News UHD
+http://api.magiaiptv.com/live/800195/918609/m3_1R7hfaksLPjw6EHrN8XGvFSo_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f00ef465-6047-4515-adbb-e525d02ecc97" parent-code="" group-title="CanaisTop", Record News HD
+http://api.magiaiptv.com/live/800195/918609/m2_dHYy9wieO2jb1QALkn30rI7u_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f00ef465-6047-4515-adbb-e525d02ecc97" parent-code="" group-title="CanaisTop", Record News HD+
+http://api.magiaiptv.com/live/800195/918609/m2_dHYy9wieO2jb1QALkn30rI7u_720p
