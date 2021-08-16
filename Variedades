@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/858bd3b4-da95-48cc-b26f-1e087031087c" parent-code="" group-title="CanaisTop", Animal Planet HD
+http://api.magiaiptv.com/live/800195/918609/m1_ZJTh6oMdeOURwWyiA9cHgYQk_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/858bd3b4-da95-48cc-b26f-1e087031087c" parent-code="" group-title="CanaisTop", Animal Planet HD+
+http://api.magiaiptv.com/live/800195/918609/m1_ZJTh6oMdeOk_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/934f83bf-fb95-4711-8d97-db86aafe66c6" parent-code="" group-title="CanaisTop", Animal Planet UHD
+http://api.magiaiptv.com/live/800195/918609/m1_ZJTh6oMdeOk_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/e48951ea-99f9-4619-a3d6-1ea199e6532e" parent-code="" group-title="CanaisTop", BIS HD
+http://api.magiaiptv.com/live/800195/918609/m4_AHRTkrZ8VGUFaC1ctW0db5O6_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/09795676-e27e-11e9-9b77-003048de22c4" parent-code="" group-title="CanaisTop", DISCOVERY HD
+http://api.magiaiptv.com/live/800195/918609/m3_E3D2EB66-67DF-49EC-8eea_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/4d9e1da0-e27e-11e9-8542-003048de22c4" parent-code="" group-title="CanaisTop", DISCOVERY HD+
+http://api.magiaiptv.com/live/800195/918609/m3_E3D2EB66-67DF-49EC-8eea_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b8cb6f84-e27d-11e9-b437-003048de22c4" parent-code="" group-title="CanaisTop", DISCOVERY UHD
+http://api.magiaiptv.com/live/800195/918609/m3_E3D2EB66-67DF-49EC-8eea_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/eddd4da0-ebac-4ffc-9834-7af3a3937768" parent-code="" group-title="CanaisTop", DISCOVERY H&H HD
+http://api.magiaiptv.com/live/800195/918609/m1_6Ij7gxZOdZwDVlMjlbHc5_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/eddd4da0-ebac-4ffc-9834-7af3a3937768" parent-code="" group-title="CanaisTop", DISCOVERY H&H HD+
+http://api.magiaiptv.com/live/800195/918609/m1_6Ij7gxZOdZwDVlMjlbHc5_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5938c2da-a2ac-11e9-8d3f-003048de22c4" parent-code="" group-title="CanaisTop", DISCOVERY H&H UHD
+http://api.magiaiptv.com/live/800195/918609/m1_6Ij7gxZOdZwDVlMjlbHc5_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d2aeb0f8-5793-4810-bc6d-68da1c42e50a" parent-code="" group-title="CanaisTop", DISCOVERY SCIENCE
+http://api.magiaiptv.com/live/800195/918609/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d2aeb0f8-5793-4810-bc6d-68da1c42e50a" parent-code="" group-title="CanaisTop", DISCOVERY SCIENCE+
+http://api.magiaiptv.com/live/800195/918609/m3_yIvLaPOcxH4qTtjiZfV3p2Y7_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a1f14a1f-d40c-4be2-b09f-0eae8a4fe438" parent-code="" group-title="CanaisTop", DISCOVERY THEATER HD
+http://api.magiaiptv.com/live/800195/918609/m2_RJ5rBub9ANcgf0C_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a1f14a1f-d40c-4be2-b09f-0eae8a4fe438" parent-code="" group-title="CanaisTop", DISCOVERY THEATER HD+
+http://api.magiaiptv.com/live/800195/918609/m2_RJ5rBub9ANcgf0C_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f75aecce-a30e-11e9-aa86-003048de22c4" parent-code="" group-title="CanaisTop", DISCOVERY THEATER UHD
+http://api.magiaiptv.com/live/800195/918609/m2_RJ5rBub9ANcgf0C_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/561c4b50-3742-483f-8f8f-d938f7a75e3d" parent-code="" group-title="CanaisTop", DISCOVERY TURBO HD
+http://api.magiaiptv.com/live/800195/918609/m1_NpfZjjxzoFwepkuEspTet_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/561c4b50-3742-483f-8f8f-d938f7a75e3d" parent-code="" group-title="CanaisTop", DISCOVERY TURBO HD+
+http://api.magiaiptv.com/live/800195/918609/m1_NpfZjjxzoFwepkuEspTet_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/81d7ab16-a2ac-11e9-850f-003048de22c4" parent-code="" group-title="CanaisTop", DISCOVERY TURBO UHD
+http://api.magiaiptv.com/live/800195/918609/m1_NpfZjjxzoFwepkuEspTet_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5fe8897d-ec45-4a9e-aa1e-91e92c485eb0" parent-code="" group-title="CanaisTop", DISCOVERY WORLD
+http://api.magiaiptv.com/live/800195/918609/m2_be0dGtMO3SNcZq7TRHUvKXpn_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/53d66d40-5140-4855-a948-4fb4e35b316a" parent-code="" group-title="CanaisTop", E!
+http://api.magiaiptv.com/live/800195/918609/m4_MLyp2YcnBaoNT1DdC3FOsiHE_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2fc8eb97-0752-40f4-b64e-dc4b36f5df80" parent-code="" group-title="CanaisTop", History HD
+http://api.magiaiptv.com/live/800195/918609/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/2fc8eb97-0752-40f4-b64e-dc4b36f5df80" parent-code="" group-title="CanaisTop", History HD+
+http://api.magiaiptv.com/live/800195/918609/m1_sd6noaLRmHrcTYkGvhOJp0Di_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/de83a7fc-4731-4b90-99c0-e984dc07e298" parent-code="" group-title="CanaisTop", History  UHD
+http://api.magiaiptv.com/live/800195/918609/m2_zE8PUswR0aD8V7ays_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d2fb79f8-3504-4424-94b4-6f9d56b07437" parent-code="" group-title="CanaisTop", H2 HD
+http://api.magiaiptv.com/live/800195/918609/m2_pyQI062qY3Xe7xTcBLrol9Vk_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d2fb79f8-3504-4424-94b4-6f9d56b07437" parent-code="" group-title="CanaisTop", H2 HD+
+http://api.magiaiptv.com/live/800195/918609/m2_pyQI062qY3Xe7xTc_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b40497c5-5e9b-42f0-9579-01a7dc3ab736" parent-code="" group-title="CanaisTop", H2 UHD
+http://api.magiaiptv.com/live/800195/918609/m1_Twn2W0CULpszhNfuo_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/f08eba3f-2fc8-4316-80f7-92db3f925330" parent-code="" group-title="CanaisTop", ID HD
+http://api.magiaiptv.com/live/800195/918609/m2_4NBa1dLVoRqQuEisXnlh5tge_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" parent-code="" group-title="CanaisTop", MTV HD
+http://api.magiaiptv.com/live/800195/918609/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/d979d889-4dd0-4c29-9625-b0d7999a4beb" parent-code="" group-title="CanaisTop", MTV HD+
+http://api.magiaiptv.com/live/800195/918609/m1_G78hbKTqXvwtlVHfAMF0k5p9_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/666c9b17-26a3-4e14-8ab5-2ab6bc0090d4" parent-code="" group-title="CanaisTop", MTV live HD
+http://api.magiaiptv.com/live/800195/918609/m3_dfEeZjblbyTWgEZydjYv_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1139cc46-c8f1-4cb6-bf17-1aae391f9660" parent-code="" group-title="CanaisTop", MULTISHOW HD
+http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/1139cc46-c8f1-4cb6-bf17-1aae391f9660" parent-code="" group-title="CanaisTop", MULTISHOW HD+
+http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/32b3f4b3-4f84-47e0-a717-153e1d0a7202" parent-code="" group-title="CanaisTop", MULTISHOW UHD
+http://api.magiaiptv.com/live/800195/918609/m1_xBEDmuNinjXaf4ZHcGkRsr7h_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/61fd24d3-2b74-40aa-9b11-99e8bb87e136" parent-code="" group-title="CanaisTop", NatGeo HD
+http://api.magiaiptv.com/live/800195/918609/m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/61fd24d3-2b74-40aa-9b11-99e8bb87e136" parent-code="" group-title="CanaisTop", NatGeo HD+
+http://api.magiaiptv.com/live/800195/918609/m3_EL3INMRQYpPjqHTGoiB5OhcX_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/438d4f21-7c40-41b7-8341-2679b50296ab" parent-code="" group-title="CanaisTop", NatGeo UHD
+http://api.magiaiptv.com/live/800195/918609/m3_EL3INMRQYpPjqHTGoiB5OhcX_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b84387ff-cac3-411b-81cf-b59ef96fee86" parent-code="" group-title="CanaisTop", NatGeo Wild HD
+http://api.magiaiptv.com/live/800195/918609/m2_yrCKvYzTLXeQrNUrR_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b84387ff-cac3-411b-81cf-b59ef96fee86" parent-code="" group-title="CanaisTop", NatGeo Wild HD+
+http://api.magiaiptv.com/live/800195/918609/m2_yrCKvYzTLXeQrNUrR_720p_2M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/19167ce6-adbb-11e9-b272-003048de22c4" parent-code="" group-title="CanaisTop", NatGeo Wild UHD
+http://api.magiaiptv.com/live/800195/918609/m2_yrCKvYzTLXeQrNUrR_1080p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/cf1e5cb2-63d9-49ae-9186-19714269cb2d" parent-code="" group-title="CanaisTop", OFF HD
+http://api.magiaiptv.com/live/800195/918609/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/cf1e5cb2-63d9-49ae-9186-19714269cb2d" parent-code="" group-title="CanaisTop", OFF HD+
+http://api.magiaiptv.com/live/800195/918609/m1_u2BlGNS5ieOZf1KVtQxaIp0R_720p_2M
