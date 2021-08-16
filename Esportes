@@ -129,6 +129,8 @@ http://api.magiaiptv.com/live/800195/918609/m2_Bnug4mAhq3JRCEsY_720p
 http://api.magiaiptv.com/live/800195/918609/m3_jpy3xfTUswF7B5jem_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/70cbb8c2-82d0-489c-94e2-53523701837b" parent-code="" group-title="CanaisTop", ESTADIO TNT SPORTS 7
 http://api.magiaiptv.com/live/800195/918609/m1_KT5wshpEIPzYTojEjc7_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/913857fb-a920-48db-a788-b66fb75a7ccb" parent-code="" group-title="CanaisTop", EI PLUS HD
+http://api.magiaiptv.com/live/800195/918609/m1_X4biE9f8rgOoZPVw_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/6a33600e-6438-47e4-821f-def884684f78" parent-code="" group-title="CanaisTop", EUROSPORT 1
 http://api.magiaiptv.com/live/800195/918609/m2_EUassaafSPdfgORT_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/655a64b8-5da7-4f94-8ea1-a59285191748" parent-code="" group-title="CanaisTop", EUROSPORT 2
@@ -157,5 +159,38 @@ http://api.magiaiptv.com/live/800195/918609/m2_n81nf9zgb19hgqd_720p
 http://api.magiaiptv.com/live/800195/918609/m2_bvgjy7b9bc6z1ga_720p
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a3026c34-a0c3-449c-bd94-ad90dc8ea444" parent-code="" group-title="CanaisTop", TV NSPORTS 3
 http://api.magiaiptv.com/live/800195/918609/m2_h781bvkz1bu6a1z_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/5b01f5a6-820d-11e9-8cda-003048de22c4" parent-code="" group-title="CanaisTop", DAZN
+http://api.magiaiptv.com/live/800195/918609/p2_dazn_264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/604a32f0-e84e-49d5-8431-37c4ac1a705f" parent-code="" group-title="CanaisTop", DAZN 2
+http://api.magiaiptv.com/live/800195/918609/p2_dazn2hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/27c0d617-63a1-4ef2-a7ea-a36a40c51546" parent-code="" group-title="CanaisTop", DAZN 3
+http://api.magiaiptv.com/live/800195/918609/p3_dazn3hd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/16163660-22eb-46fd-908c-01cab1efab41" parent-code="" group-title="CanaisTop", Bein English 1 HD
+http://api.magiaiptv.com/live/800195/918609/m2_ggkPvTiPcSNtLf3ymyMSPY53ksi_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9db42b73-15e7-4e46-9b87-fa89b762d43e" parent-code="" group-title="CanaisTop", Bein English 2 HD
+http://api.magiaiptv.com/live/800195/918609/m3_JljAFmCUV13gjSLMGt3D6n8q7Lt_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b0d889a5-81be-474b-b865-0a10ce552ba9" parent-code="" group-title="CanaisTop", Bein English 3 HD
+http://api.magiaiptv.com/live/800195/918609/m3_GCcBFnck0TR7e19gmg_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/9705d83f-f09b-41a0-af71-7561cff40916" parent-code="" group-title="CanaisTop", Bein premium 1 HD
+http://api.magiaiptv.com/live/800195/918609/m2_dBrQsWUR9FuOGHKtz7tQ64tqSTH_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/77fa254a-6d26-430a-a2d5-25a2297cf38d" parent-code="" group-title="CanaisTop", Bein premium 2 HD
+http://api.magiaiptv.com/live/800195/918609/m3_nzx613AAUnJqOOgUbYFRYyKAyhm_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/7c595137-5f8f-4abf-bdc3-a9dfddb3bae8" parent-code="" group-title="CanaisTop", Bein premium 3 HD
+http://api.magiaiptv.com/live/800195/918609/m1_ssjfelAbYzoqhYEjGOimmjYlTyj_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/890c35bc-cb08-11e9-9f16-003048de22c4" parent-code="" group-title="CanaisTop", Bein Sports 1 HD
+http://api.magiaiptv.com/live/800195/918609/m1_b3LqtPcVf80FH9zmjuIKYaSdNW4_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/956d8d4c-cb08-11e9-8f41-003048de22c4" parent-code="" group-title="CanaisTop", Bein Sports 2 HD
+http://api.magiaiptv.com/live/800195/918609/m2_kzBnxIpw2nDN4oc2hacjgj5nX8i_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/a0f1e3fc-cb08-11e9-842d-003048de22c4" parent-code="" group-title="CanaisTop", Bein Sports 3 HD
+http://api.magiaiptv.com/live/800195/918609/m3_84EEnC2nxXxTmQcJUE1LLnLCqj9_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/aac09324-cb08-11e9-8dba-003048de22c4" parent-code="" group-title="CanaisTop", Bein Sports 4 HD
+http://api.magiaiptv.com/live/800195/918609/m1_QmvKPghrqboJ5XW5ys7LeOUjn5R_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/b5361356-cb08-11e9-bd00-003048de22c4" parent-code="" group-title="CanaisTop", Bein Sports 5 HD
+http://api.magiaiptv.com/live/800195/918609/m2_rBQgv9ZWMgCpBoK09zqQqamkASY_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/bff73626-cb08-11e9-9ed5-003048de22c4" parent-code="" group-title="CanaisTop", Bein Sports 6 HD
+http://api.magiaiptv.com/live/800195/918609/m3_fK7O9ECloybQIPcQ0kOwfg9mUid_720p
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://img2g.hdawiyr1g.xyz/gateway/files/ca551df4-cb08-11e9-b272-003048de22c4" parent-code="" group-title="CanaisTop", Bein Sports 7 HD
+http://api.magiaiptv.com/live/800195/918609/m1_IJuJZjslV1ETJDTkTvWSUKGMR3d_720p
+
 
 
